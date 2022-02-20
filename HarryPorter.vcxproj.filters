@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+    <Text Include="books\HP2--Harry_Potter_and_the_Chamber_of_Secrets_Book_2_.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="books\HP7--Harry_Potter_and_the_Deathly_Hallows_Book_7_.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="books\J.K. Rowling - HP 0 - Harry Potter Prequel.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="books\J.K. Rowling - HP 3 - Harry Potter and the Prisoner of Azkaban.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="books\J.K. Rowling - HP 4 - Harry Potter and the Goblet of Fire.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="books\J.K. Rowling - HP 6 - Harry Potter and the Half-Blood Prince.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="books\J.K. Rowling - Quidditch Through the Ages.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="books\J.K. Rowling - The Tales of Beedle the Bard.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Harry.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

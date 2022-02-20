@@ -1,0 +1,6 @@
+﻿  Harry.cpp
+c:\users\tim72\source\repos\schoolwork\harryporter\harry.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\tim72\source\repos\schoolwork\harryporter\harry.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\tim72\source\repos\schoolwork\harryporter\harry.cpp(83): warning C4018: “<=”: 有符号/无符号不匹配
+  HarryPorter.vcxproj -> C:\Users\tim72\source\repos\schoolwork\HarryPorter\Debug\HarryPorter.exe
+  HarryPorter.vcxproj -> C:\Users\tim72\source\repos\schoolwork\HarryPorter\Debug\HarryPorter.pdb (Partial PDB)
